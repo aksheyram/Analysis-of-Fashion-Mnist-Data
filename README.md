@@ -20,3 +20,5 @@ Each image is 28 pixels in width and 28 pixels in height and a total of 784 pixe
 - Decision Tree 
 
 The results of all the models are compared and viualization is done for all those. 
+
+**LINK TO ACCESS THE DATASET**: https://ubuffalo-my.sharepoint.com/:f:/g/personal/aksheyra_buffalo_edu/EkcxFTN-XsBMtde8J5iaoj0B4krGi2iwnqrWloDyj-7jjg?e=mOut5O
